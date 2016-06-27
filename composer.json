@@ -1,0 +1,12 @@
+{
+    "name": "coryjamesfisher/falafel-examples",
+    "require": {
+        "coryjamesfisher/falafel": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "Cory Fisher",
+            "email": "coryjamesfisher@gmail.com"
+        }
+    ]
+}

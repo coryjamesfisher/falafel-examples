@@ -1,0 +1,57 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "dac544a68ddaa66c793156ad7d19070d",
+    "content-hash": "ee75976a92871eea800948ca6fd20b41",
+    "packages": [
+        {
+            "name": "coryjamesfisher/falafel",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/coryjamesfisher/falafel.git",
+                "reference": "f6088f76176d5a4a3fb6506f937e102ef211a00b"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/coryjamesfisher/falafel/zipball/f6088f76176d5a4a3fb6506f937e102ef211a00b",
+                "reference": "f6088f76176d5a4a3fb6506f937e102ef211a00b",
+                "shasum": ""
+            },
+            "require-dev": {
+                "phpunit/phpunit": "4.8.26"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Falafel\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Cory Fisher",
+                    "email": "coryjamesfisher@gmail.com"
+                }
+            ],
+            "description": "Falafel - Flexible Listing Framework",
+            "time": "2016-06-27 13:26:22"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "coryjamesfisher/falafel": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
